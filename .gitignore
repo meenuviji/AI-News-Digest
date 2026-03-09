@@ -1,0 +1,22 @@
+# Secret credentials — NEVER upload this
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Logs
+logs/*.log
+
+# Mac system files
+.DS_Store
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# VS Code settings
+.vscode/
